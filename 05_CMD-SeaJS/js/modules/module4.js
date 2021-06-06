@@ -1,4 +1,12 @@
 /*
+ * @Author: your name
+ * @Date: 2021-06-06 10:06:54
+ * @LastEditTime: 2021-06-06 10:13:08
+ * @LastEditors: your name
+ * @Description: In User Settings Edit
+ * @FilePath: \0719_modular\05_CMD-SeaJS\js\modules\module4.js
+ */
+/*
 * 定义一个有依赖的模块，module4,依赖于module2和module3
 * */
 

@@ -1,3 +1,11 @@
+<!--
+ * @Author: your name
+ * @Date: 2021-06-06 10:06:53
+ * @LastEditTime: 2021-06-06 10:13:27
+ * @LastEditors: your name
+ * @Description: In User Settings Edit
+ * @FilePath: \0719_modular\教程_笔记\2_CommonJS_Node模块化教程.md
+-->
 ## CommonJS服务端模块化教程(Node.js模块化教程)
 ###1. 安装Node.js
 

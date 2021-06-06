@@ -1,3 +1,11 @@
+<!--
+ * @Author: your name
+ * @Date: 2021-06-06 10:06:54
+ * @LastEditTime: 2021-06-06 10:13:19
+ * @LastEditors: your name
+ * @Description: In User Settings Edit
+ * @FilePath: \0719_modular\教程_笔记\0_node与npm(必看).md
+-->
 ##模块化课程Node相关知识铺垫
 ### 1. Node是什么？
 > 是一个js运行环境

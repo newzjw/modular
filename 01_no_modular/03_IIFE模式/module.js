@@ -1,3 +1,11 @@
+/*
+ * @Author: your name
+ * @Date: 2021-06-06 10:06:54
+ * @LastEditTime: 2021-06-06 10:10:51
+ * @LastEditors: your name
+ * @Description: In User Settings Edit
+ * @FilePath: \0719_modular\01_no_modular\03_IIFE模式\module.js
+ */
 /**
  * IIFE模式: 匿名函数自调用(闭包)
  * IIFE : immediately-invoked function expression(立即调用函数表达式)
